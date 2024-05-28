@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an ebook app**
 
-- 🌱 I’m currently learning ** flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 👯 I’m looking to collaborate on **any new project**
 
