@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm jihane salih</h1>
-<h3 align="center">A passionate Computer Engineering student</h3>
+<h3 align="center">a fourth-year Computer Engineering student with a strong passion for software development and an interest in cybersecurity. I love diving into complex challenges and turning ideas into reality through code.</h3>
 
 - 🔭 I’m currently working on **an ebook app**
 
 - 🌱 I’m currently learning **flutter**
 
-- 👯 I’m looking to collaborate on **any new project**
+- 👯 I’m looking to collaborate and **make new projects**
+
+🎓 Education: Currently pursuing a degree in Computer Engineering at **ISGA**, where I have developed a solid foundation in software engineering principles and practices.
+
+- 🎯 Goals: To continuously improve my skills and contribute to meaningful projects in the tech community.
+
+- 📫 How to reach me **jihanesalih788@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
