@@ -7,7 +7,8 @@
 
 - 👯 I’m looking to collaborate and **make new projects**
 
-    -🎓 Education: Currently pursuing a degree in Computer Engineering at **ISGA**, where I have developed a solid foundation in software engineering principles and practices.
+     -🎓 Education: Currently pursuing a degree in Computer Engineering at **ISGA**, where I have developed a solid foundation in software engineering principles and 
+      practices.
 
     - 🎯 Goals: To continuously improve my skills and contribute to meaningful projects in the tech community.
 
